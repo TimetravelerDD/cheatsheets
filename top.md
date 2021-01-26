@@ -20,4 +20,7 @@ intro: See the processes in your Unix machine.
 | `Shift+l` | searches for string   |
 | `o`       | adds a filter         |
 | `=`       | clears filters        |
+| `V`       | Forest view           |
+| `c`       | show full path        |
+| `u`       |  filter user          |
 {: .-shortcuts}
